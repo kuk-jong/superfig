@@ -532,5 +532,3 @@ with st.expander("✅ 실행 방법(처음 하시는 경우)", expanded=False):
 ```bash
 pip install streamlit pandas numpy
 streamlit run app.py
-"""
-)
